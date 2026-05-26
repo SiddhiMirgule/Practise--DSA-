@@ -12,6 +12,10 @@
       <sourceFolder url="file://$MODULE_DIR$/07_Recurssion/code/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08_Mis/code/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09_Loop/code/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_sqrt_decomposition/code/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/375 Questions sheet/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA 375 Question sheet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA 375 Question sheet " type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
